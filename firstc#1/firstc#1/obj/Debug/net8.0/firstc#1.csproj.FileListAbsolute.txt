@@ -1,0 +1,14 @@
+D:\.NET\firstc#1\firstc#1\bin\Debug\net8.0\firstc#1.exe
+D:\.NET\firstc#1\firstc#1\bin\Debug\net8.0\firstc#1.deps.json
+D:\.NET\firstc#1\firstc#1\bin\Debug\net8.0\firstc#1.runtimeconfig.json
+D:\.NET\firstc#1\firstc#1\bin\Debug\net8.0\firstc#1.dll
+D:\.NET\firstc#1\firstc#1\bin\Debug\net8.0\firstc#1.pdb
+D:\.NET\firstc#1\firstc#1\obj\Debug\net8.0\firstc#1.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\firstc#1\firstc#1\obj\Debug\net8.0\firstc#1.AssemblyInfoInputs.cache
+D:\.NET\firstc#1\firstc#1\obj\Debug\net8.0\firstc#1.AssemblyInfo.cs
+D:\.NET\firstc#1\firstc#1\obj\Debug\net8.0\firstc#1.csproj.CoreCompileInputs.cache
+D:\.NET\firstc#1\firstc#1\obj\Debug\net8.0\firstc#1.dll
+D:\.NET\firstc#1\firstc#1\obj\Debug\net8.0\refint\firstc#1.dll
+D:\.NET\firstc#1\firstc#1\obj\Debug\net8.0\firstc#1.pdb
+D:\.NET\firstc#1\firstc#1\obj\Debug\net8.0\firstc#1.genruntimeconfig.cache
+D:\.NET\firstc#1\firstc#1\obj\Debug\net8.0\ref\firstc#1.dll
